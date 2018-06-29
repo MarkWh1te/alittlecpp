@@ -1,0 +1,4 @@
+"/Users/matianjun/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/181.5087.36/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Volumes/Transcend/Dropbox/code/personal/alittlecpp/cpp_prime
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/Transcend/Dropbox/code/personal/alittlecpp/cpp_prime/cmake-build-debug

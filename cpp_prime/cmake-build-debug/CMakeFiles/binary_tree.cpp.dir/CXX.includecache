@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Transcend/Dropbox/code/personal/alittlecpp/cpp_prime/binary_tree.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
